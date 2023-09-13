@@ -1,0 +1,5 @@
+pip install discord.py
+pip install yt_dlp
+pip install PyNacl
+pip install ffmpeg
+pip install spotipy
